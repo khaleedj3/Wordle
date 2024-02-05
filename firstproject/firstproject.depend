@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1707154023 source:c:\users\khale\onedrive\desktop\firstproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+
